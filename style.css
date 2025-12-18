@@ -101,4 +101,8 @@
 .aud audio {
     width: 320px;
 }
+.frames{
+    background-color: #113f51;
+    align-items: center;
+}
 }

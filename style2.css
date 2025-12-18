@@ -1,12 +1,30 @@
  .back {
-    background-color:#113f51;
+    background: linear-gradient(180deg,#32a87f, #0b4f6c);
+    
   } 
 .aud {
-    background: rgba(23, 29, 31, 0.9);
-    padding: 40px 40px;
+    background: rgba(157, 201, 174, 0.9);
+    padding: 25px 50px;
     border-radius: 15px; 
+    margin-top:20px;
 }
 
 .aud audio {
+  
     width: 320px;
+}
+
+.aud img {
+    width: 150px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 2px;
+    margin-top: 60px;
+}
+.para {
+    color: white;
+    font-size: 15px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
