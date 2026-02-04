@@ -23,7 +23,7 @@ if ($result->num_rows === 1) {
 
     if (password_verify($password, $user['password'])) {
         $_SESSION['username'] = $user['username'];
-        header("Location: dashboard.html");
+        header("Location: index.html");
         exit();
     } else {
         echo "<script>alert('Wrong password'); window.history.back();</script>";
