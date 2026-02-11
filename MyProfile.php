@@ -24,7 +24,7 @@
     <link rel="stylesheet" href="style4.css">
 </head>
 <body class="back">
-    <a href="Edit Profile.html" style="padding-left: 900px;">Edit Profile</a>
+    <a href="editprofile.php" style="padding-left: 900px;">Edit Profile</a>
 
     <h2>My Profile</h2>
    <table style="border-collapse:collapse; width:70%; border:1px solid black; text-align:center;">

@@ -17,6 +17,7 @@
             <nav class="side-nav">
                 <a href="blank.html" target="contentFrame">Home</a>
                 <a href="My Profile.html" target="contentFrame">My Profile</a>
+                <a href="file_manager.php" target="contentFrame">Medical Reports</a>
                 <a href="Dashboard.html" target="contentFrame">Dashboard</a>
                 <a href="MyDoctors.html" target="contentFrame">My Doctors</a>
                 <a href="Song Theraphy.html" target="contentFrame">Music Therapy</a>
