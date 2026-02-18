@@ -14,6 +14,10 @@
         <form action="login.php" method="post">
 
             <div class="input-group">
+                <a href="google-login.php">
+    <button type="button">Login with Google</button>
+</a>
+
                 <label for="username">Username</label>
                 <input type="text" id="username" name="username" placeholder="Enter username" required>
                 
@@ -34,6 +38,7 @@
                 <span>OR</span>
              </div>
              <div></div>
+             
              <div class="line">Don't have an account? <a href="editprofile2.php">Sign Up</a></div>
         </form>
     </section>
